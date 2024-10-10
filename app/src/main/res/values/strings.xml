@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdivinaNumeromovil</string>
+    <string name="mensaje_ganador">ENHORABUENA!! has acertado el numero</string>
+</resources>
